@@ -11,4 +11,6 @@ for(i=0;i<onee.length;i++)
 
 }
 
-one('hai')
+one(open)
+
+var open = 'hello'
