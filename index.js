@@ -1,9 +1,14 @@
 function one(value)
 {
 
-const onee = [];
-let onee = value;
+var onee = [];
+var onee = value;
 
-
+for(i=0;i<onee.length;i++)
+{
+  console.log(onee[i])
+}
 
 }
+
+one('hai')
